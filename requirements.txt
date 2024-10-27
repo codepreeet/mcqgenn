@@ -1,0 +1,19 @@
+openai
+huggingface_hub
+langchain
+streamlit
+python-dotenv
+PyPDF2
+transformers
+accelerate
+bitsandbytes
+
+-e .
+
+
+
+# openai
+# langchain
+# streamlit
+# python-dotenv
+# pyPDF2
